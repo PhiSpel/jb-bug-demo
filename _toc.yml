@@ -1,3 +1,6 @@
-file: content
-sections:
+format: jb-book
+root: content
+chapters:
+- file: README
 - file: subdirectory/notebook
+
