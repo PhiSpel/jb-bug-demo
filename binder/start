@@ -2,6 +2,6 @@
 
 set -e
 
-cd /home/jovyan/folder/subfolder/subsubfolder
+cd /home/jovyan/subdirectory
 
 exec "$@"
